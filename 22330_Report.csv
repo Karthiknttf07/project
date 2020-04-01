@@ -1,0 +1,17 @@
+E-Mod 1 [MPa],E-Mod 2 [MPa],Bending Ratio at 90 % of max load,Comp. Strength (MPa),Max Force (kN),LinearEstStrain To Failure (%),Failure mode
+,,,,,,
+83826,73468,0.073,684,39.11,0.87,Complex
+75176,79993,0.052,537,30.41,0.692,Complex
+76505,78007,0.02,535,30.12,0.692,Complex
+76298,74158,0.01,697,39.05,0.926,Complex
+83370,84218,0.09,737,41.22,0.879,Complex
+81179,72435,0.117,743,41.64,0.968,Excluded bending ratio > 0
+76137,80553,0.026,652,36.56,0.832,Complex
+83934,78400,0.087,635,36.07,0.783,Complex
+87525,74645,0.13,719,40.74,0.887,Excluded
+64946,91892,0.236,673,37.65,0.858,Excluded bending ratio > 0
+63173,92924,0.245,667,37.23,0.855,Excluded bending ratio > 0
+68301,91916,0.157,616,34.54,0.769,Excluded bending ratio > 0
+70868,90840,0.14,577,32.55,0.714,Excluded bending ratio > 0
+69427,90116,0.152,618,34.85,0.775,Excluded bending ratio > 0
+84237,77427,0.116,613,34.52,0.758,Excluded bending ratio > 0
